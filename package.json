@@ -1,0 +1,22 @@
+{
+  "name": "node-wordpress-posts-pipe",
+  "version": "0.0.1",
+  "author": "Termina1",
+  "description": "Provides ability to sync worpdress posts with your node application",
+  "scripts": {},
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Termina1/paper-counter.git"
+  },
+  "dependencies": {
+    "mysql": "^2.2.0",
+    "through2": "^1.0.0",
+    "redis": "^0.10.3"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
