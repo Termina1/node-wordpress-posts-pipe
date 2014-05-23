@@ -12,7 +12,8 @@
   "dependencies": {
     "mysql": "^2.2.0",
     "through2": "^1.0.0",
-    "redis": "^0.10.3"
+    "redis": "^0.10.3",
+    "lodash": "^2.4.1"
   },
   "devDependencies": {},
   "license": "MIT",
